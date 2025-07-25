@@ -1,5 +1,8 @@
 # Flutter Firebase AI Logic Example
 
+## Scrreenshot
+![Screenshot](https://raw.githubusercontent.com/abhi-1611/flutter_firebase_ai_logic_example/main/screenshot.png)
+
 ## Setup Firebase
 1. Create Firebase App and add package name in Firebase Console.
 2. Create `.env` file in the root directory of the project.
