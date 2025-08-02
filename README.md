@@ -1,10 +1,10 @@
 # Flutter Firebase AI Logic Example
 
 ## Scrreenshot
-![Screenshot](https://raw.githubusercontent.com/theshivamlko/flutter_firebase_ai_logic_example/main/screenshot.png)
+<img src="./screenshot.png" alt="flutter chat ai app with firebase ai logic" width="200"/>
 
 ## Setup Firebase
-1. Create Firebase App and add package name in Firebase Console.
+1. Create Firebase App and add flutter app package name in Firebase Console.
 2. Create `.env` file in the root directory of the project.
 3. Add your Firebase configuration to the `.env` file:
    ```
@@ -19,7 +19,7 @@
 
    ```
 
-4.Enable the following services in Firebase Console:
+4. Enable the following services in Firebase Console:
    - Firebase AI Logic - Gemini Developer API
 5. Ready to run the app.
 
